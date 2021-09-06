@@ -20,9 +20,9 @@ int main() {
 
     cout << " Berakhir pada Jam : ";
     cin >> jam2;
-    cout << " mulai pada menit  ;";
+    cout << " berakhir pada menit  ;";
     cin >> menit2;
-    cout <<  " mulai pada detik :";
+    cout <<  " berakhir pada detik :";
     cin >> detik2;
 
     total1 = (jam1 * 3600) + (menit1 * 60) + detik1;
